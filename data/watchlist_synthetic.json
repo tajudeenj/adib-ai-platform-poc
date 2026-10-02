@@ -1,0 +1,17 @@
+[
+ {
+  "name": "Qorvane Metals Ltd",
+  "kind": "entity",
+  "list": "SAMPLE-SANCTIONS-A"
+ },
+ {
+  "name": "Marrow Bay Holdings",
+  "kind": "entity",
+  "list": "SAMPLE-SANCTIONS-B"
+ },
+ {
+  "name": "Blue Halcyonn",
+  "kind": "vessel",
+  "list": "SAMPLE-SANCTIONS-A"
+ }
+]

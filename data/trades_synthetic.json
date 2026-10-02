@@ -1,0 +1,141 @@
+[
+ {
+  "trade_id": "T-1001",
+  "product": "LC",
+  "applicant": "Falcon Steel Trading LLC",
+  "beneficiary": "Huaxin Metal Works",
+  "payer": "Falcon Steel Trading LLC",
+  "commodity": "steel_coils",
+  "description": "Hot-rolled steel coils, grade SS400",
+  "quantity_tons": 500,
+  "unit_price_usd": 780,
+  "route": [
+   "China",
+   "UAE"
+  ],
+  "vessel": "MV Pearl Coast",
+  "applicant_contact": "Ops desk +971 50 123 4567, ops@falconsteel.example"
+ },
+ {
+  "trade_id": "T-1002",
+  "product": "LC",
+  "applicant": "Gulf Copper Supplies FZE",
+  "beneficiary": "Andes Mining Export",
+  "payer": "Gulf Copper Supplies FZE",
+  "commodity": "copper_cathodes",
+  "description": "Copper cathodes grade A, LME registered",
+  "quantity_tons": 200,
+  "unit_price_usd": 15500,
+  "route": [
+   "Chile",
+   "UAE"
+  ],
+  "vessel": "MV Sierra Star",
+  "applicant_contact": "CFO Emirates ID 784-1985-1234567-1, IBAN AE070331234567890123456"
+ },
+ {
+  "trade_id": "T-1003",
+  "product": "LC",
+  "applicant": "Orbit General Trading LLC",
+  "beneficiary": "Kestrel Export House",
+  "payer": "Silverline Holdings Ltd",
+  "commodity": "unspecified",
+  "description": "General goods, various items",
+  "quantity_tons": 120,
+  "unit_price_usd": 9800,
+  "route": [
+   "Narvonia",
+   "Oman",
+   "UAE"
+  ],
+  "vessel": "MV Desert Wind",
+  "applicant_contact": "Owner mobile 055 987 6543"
+ },
+ {
+  "trade_id": "T-1004",
+  "product": "LC",
+  "applicant": "Seaborne Grains LLC",
+  "beneficiary": "Black Sea Agro",
+  "payer": "Seaborne Grains LLC",
+  "commodity": "sugar",
+  "description": "Refined white sugar ICUMSA 45",
+  "quantity_tons": 1000,
+  "unit_price_usd": 560,
+  "route": [
+   "Brazil",
+   "UAE"
+  ],
+  "vessel": "Blue Halcyon",
+  "applicant_contact": "trade@seaborne.example"
+ },
+ {
+  "trade_id": "T-1005",
+  "product": "Murabaha",
+  "applicant": "Coastal Hospitality Supplies LLC",
+  "beneficiary": "Euro Beverage Distributors",
+  "payer": "Coastal Hospitality Supplies LLC",
+  "commodity": "alcoholic_beverages",
+  "description": "Alcoholic beverages for hotel supply",
+  "quantity_tons": 40,
+  "unit_price_usd": 3000,
+  "route": [
+   "France",
+   "UAE"
+  ],
+  "vessel": "MV Riviera",
+  "applicant_contact": "procurement@coastal.example"
+ },
+ {
+  "trade_id": "T-1006",
+  "product": "LC",
+  "applicant": "Desert Alloy Industries",
+  "beneficiary": "Anatolia Metals",
+  "payer": "Desert Alloy Industries",
+  "commodity": "aluminium",
+  "description": "Aluminium ingots P1020",
+  "quantity_tons": 300,
+  "unit_price_usd": 1300,
+  "route": [
+   "Turkey",
+   "Singapore",
+   "Oman",
+   "UAE"
+  ],
+  "vessel": "MV Bosphorus Light",
+  "applicant_contact": "+971 4 555 0101"
+ },
+ {
+  "trade_id": "T-1007",
+  "product": "Murabaha",
+  "applicant": "Al Noor Foodstuff LLC",
+  "beneficiary": "Punjab Rice Mills",
+  "payer": "Al Noor Foodstuff LLC",
+  "commodity": "rice",
+  "description": "Basmati rice 1121, sella",
+  "quantity_tons": 800,
+  "unit_price_usd": 520,
+  "route": [
+   "India",
+   "UAE"
+  ],
+  "vessel": "MV Indus Pride",
+  "applicant_contact": "accounts@alnoor.example"
+ },
+ {
+  "trade_id": "T-1008",
+  "product": "LC",
+  "applicant": "Horizon Electronics Trading",
+  "beneficiary": "Kestrel Isles Components",
+  "payer": "Northgate Ventures Inc",
+  "commodity": "electronics",
+  "description": "Mobile phone components, model list attached",
+  "quantity_tons": 15,
+  "unit_price_usd": 42000,
+  "route": [
+   "Kestrel Isles",
+   "UAE"
+  ],
+  "vessel": "MV Silver Gull",
+  "applicant_contact": "+971 52 222 3344"
+ }
+]
